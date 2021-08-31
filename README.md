@@ -149,7 +149,7 @@
 Se concluye que:
 
 - ia.
-- on.
+- En el comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido. En corriente alterna el capacitor se carga y descarga según sea la frecuencia de oscilación.
 - nin.
 
 # **8. BIBLIOGRAFÍA**
