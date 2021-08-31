@@ -26,7 +26,6 @@
   - Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
   - Verificar las combinaciones serie y paralelo de bobinas y capacitores.     
   -  Familiarizarse con el uso de instrumentos de medida. 
-  
   Determiar de forma teorica la variación con el tiempo,en proceso de carga y descarga.
   
   
