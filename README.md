@@ -20,6 +20,7 @@
  
  **OBJETIVOS ESPECÍFICOS**
   - Analizar las señales producidas en el osciloscopio de los dos circuitos que están compuestos por capacitores y bobinas.
+  - Encontrar similitudes y diferencias en el funcionamiento de ambos circuitos.
   - Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
   - Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
   - Verificar las combinaciones serie y paralelo de bobinas y capacitores.
