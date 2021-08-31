@@ -104,7 +104,7 @@
 
 ###### 5.1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
-
+El capacitor en corriente continua se comporta como un circuito abierto debido a que el flujo de electrones se detiene y no permite el paso de la corriente. En la bobina se comporta como un corto circuito y dejará pasar la corriente a través de ella sin ninguna oposición.
 
 ###### 5.2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
