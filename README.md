@@ -21,13 +21,15 @@
  
  **OBJETIVOS ESPECÍFICOS**
   - Analizar las señales producidas en el osciloscopio de los dos circuitos que están compuestos por capacitores y bobinas.
-  - Encontrar similitudes y diferencias en el funcionamiento de los circuitos.
-  -Determiar de forma teorica la variación con el tiempo,en proceso de carga y descarga.  
+  - Encontrar similitudes y diferencias en el funcionamiento de los circuitos.   
   - Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
   - Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
-  - Verificar las combinaciones serie y paralelo de bobinas y capacitores.
-  - Familiarizarse con el uso de instrumentos de medida.
-
+  - Verificar las combinaciones serie y paralelo de bobinas y capacitores.     
+  -  Familiarizarse con el uso de instrumentos de medida. 
+  
+  Determiar de forma teorica la variación con el tiempo,en proceso de carga y descarga.
+  
+  
 # **2. MARCO TEÓRICO**
 
 <div align="center">
