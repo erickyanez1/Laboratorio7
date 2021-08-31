@@ -16,7 +16,8 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  -Comprender el comportamiento del inductor y capacitor  mediante el uso de un osciloscopio para viaulizar las curvas de carga y descarga en función de la corrente y el voltaje
+  
+  -Comprender de forma practica el comportamiento del inductor y capacitor mediante el uso de un osciloscopio el cual nos va a permitir visualizar las curvas de carga y descarga en función de la corriente y el voltaje
  
  **OBJETIVOS ESPECÍFICOS**
   - Analizar las señales producidas en el osciloscopio de los dos circuitos que están compuestos por capacitores y bobinas.
@@ -131,3 +132,6 @@ Se concluye que:
 
 # **8. BIBLIOGRAFÍA**
 
+Bobinas en CC y CA. (2021). Retrieved 31 August 2021, from https://www.slideshare.net/BelnAlbarenque/bobinas-en-cc-y-ca
+(2021). Retrieved 31 August 2021, from http://jpadilla.docentes.upbbga.edu.co/Electrotecnia/7%20Circuitos%20con%20bobinas%20e%20inductores.pdf
+Alexander, Charles K., Fundamentos de circuitos eléctricos. McGraw-Hill, 2006.
