@@ -126,7 +126,7 @@ Se concluye que:
 
 - Los valores de voltaje no pueden sobrepasar el voltaje pico, debido a que es el valor de nuestra fuente de alimentación fija en este caso de 10V, lo cual impide que exista algún valor mayor a este ya que se denomina pico, es decir, el valor más alto. Lo único que puede pasar es que haya algún valor que se le aproxime pero nunca sobrepasarlo.
 - En el comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido. En corriente alterna el capacitor se carga y descarga según sea la frecuencia de oscilación.
-- nin.
+- La impedancia capacitiva será menor si  la frecuencia introducida es mayor, mientras que la impedancia inductiva sera mayor  si la frecuencia utilizada  igual es mayor.
 
 # **8. BIBLIOGRAFÍA**
 
