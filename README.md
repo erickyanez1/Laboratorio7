@@ -128,7 +128,7 @@ En el capacitor aparece la corriente adelantada 90 ° con respecto a la tensión
 
 
 
-###### 5.3. ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+###### 5.3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
 
 
