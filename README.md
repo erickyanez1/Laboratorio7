@@ -49,37 +49,20 @@
 
 <div align="center">
 
-  
-  
+![](https://github.com/erickyanez1/Laboratorio7/blob/main/IMG/sim1_cap.JPG)
   
 </div>
 
 ###### **a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
 
-<div align="center">
-
-
-  
-  
-</div>
-
 ###### **b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
-
-<div align="center">
-
-
-
-
-  
-</div>
-
-
-
 
 ###### **c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
 <div align="center">
 
+![](https://github.com/erickyanez1/Laboratorio7/blob/main/IMG/sim1_caposc.JPG)
+![](https://github.com/erickyanez1/Laboratorio7/blob/main/IMG/tab1_cap.JPG)
 
   
 </div>
@@ -88,33 +71,23 @@
 
 ###### **4.1.2 Construya en el protoboard el circuito de la Figura 2.**
 
+<div align="center">
+  
+![](https://github.com/erickyanez1/Laboratorio7/blob/main/IMG/sim2_bob.JPG)
+  
+</div>
+
 ###### **a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
 
-<div align="center">
-
-
-  
-  
-</div>
-
 ###### **b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
-
-<div align="center">
-
-
-
-
-  
-</div>
-
-
-
 
 ###### **c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
 <div align="center">
 
-
+![](https://github.com/erickyanez1/Laboratorio7/blob/main/IMG/sim2_bobosc.JPG)
+![](https://github.com/erickyanez1/Laboratorio7/blob/main/IMG/tab2_bob.JPG)
+  
   
 </div>
 
@@ -150,7 +123,7 @@
 
 Se concluye que:
 
-- ia.
+- Los valores de voltaje no pueden sobrepasar el voltaje pico, debido a que es el valor de nuestra fuente de alimentación fija en este caso de 10V, lo cual impide que exista algún valor mayor a este ya que se denomina pico, es decir, el valor más alto. Lo único que puede pasar es que haya algún valor que se le aproxime pero nunca sobrepasarlo.
 - En el comportamiento de los capacitores en corriente alterna dependerá de las funciones que describan su comportamiento en un intervalo de tiempo definido. En corriente alterna el capacitor se carga y descarga según sea la frecuencia de oscilación.
 - nin.
 
