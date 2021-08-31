@@ -131,8 +131,8 @@ En el capacitor aparece la corriente adelantada 90 ° con respecto a la tensión
 ###### 5.3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
 Para el primer circuito si el valor del capacitor es mayor o menor al indicado, su voltaje tendrá una pequeña variación, pero esta se notara más al momento de cambiar por un capacitor que este bien alejado del valor establecido, llegando a variar solo decimas y para su intensidad al aumentar el valor del capacitor así mismo esta variara y aumentara el valor de la intensidad aunque tampoco serán valores con una gran variación, donde se notara más, es al disminuir el valor del capacitor debido a que su variación será mayor.
-Para el Segundo circuito el voltaje aumentará si el valor de la bobina aumenta y lo mismo se dará si el valor de la bobina disminuye, su corriente se mantendrá constante.
 
+Para el Segundo circuito el voltaje aumentará si el valor de la bobina aumenta y lo mismo se dará si el valor de la bobina disminuye, su corriente se mantendrá constante.
 
 ###### 5.4. ¿Qué son los valores eficaces de voltaje y corriente?
 
