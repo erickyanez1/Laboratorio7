@@ -159,6 +159,8 @@ Se concluye que:
 
 Bobinas en CC y CA. (2021). Retrieved 31 August 2021, from https://www.slideshare.net/BelnAlbarenque/bobinas-en-cc-y-ca
 
+Condensador en CC (CD) - Capacitor y la corriente directa - Electrónica Unicrom %. (2018). Retrieved 31 August 2021, from https://unicrom.com/condensador-en-cc-dc/
+
 El inductor o bobina y las corrientes continua y alterna, factor de calidad - Electrónica Unicrom. (2020). Retrieved 31 August 2021, from https://unicrom.com/el-inductor-o-bobina-y-las-corrientes-continua-y-alterna-factor-de-calidad-q/
 
 (2021). Retrieved 31 August 2021, from http://jpadilla.docentes.upbbga.edu.co/Electrotecnia/7%20Circuitos%20con%20bobinas%20e%20inductores.pdf
