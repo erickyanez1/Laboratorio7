@@ -144,7 +144,7 @@ Las tensiones y corrientes alternas están expresadas por funciones oscilatorias
 
 # **6. VIDEO**
 
-- 
+- https://youtu.be/XITY1_AesNM
 
 # **7. CONCLUSIONES**
 
