@@ -124,20 +124,20 @@
 #  5.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 
-###### **5.1. ¿**
+###### **5.1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
 
 
-###### **5.2. ¿ L?.**
+###### **5.2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 
 
 
-###### **5.3. ¿PP?.**
+###### **5.3. ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
 
 
-###### **5.4. ¿PP?.**
+###### **5.4. ¿Qué son los valores eficaces de voltaje y corriente?
 
 
 
