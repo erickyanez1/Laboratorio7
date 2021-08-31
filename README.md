@@ -16,11 +16,12 @@
 # **1. OBJETIVOS**
 
 **OBJETIVO GENERAL**
-  - L.
+  -Comprender el comportamiento del inductor y capacitor  mediante el uso de un osciloscopio para viaulizar las curvas de carga y descarga en función de la corrente y el voltaje
  
  **OBJETIVOS ESPECÍFICOS**
   - Analizar las señales producidas en el osciloscopio de los dos circuitos que están compuestos por capacitores y bobinas.
   - Encontrar similitudes y diferencias en el funcionamiento de los circuitos.
+  -Determiar de forma teorica la variación con el tiempo,en proceso de carga y descarga.  
   - Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
   - Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
   - Verificar las combinaciones serie y paralelo de bobinas y capacitores.
